@@ -9,5 +9,5 @@
 
 
 <p align="center">
-<img src="figures/20150103_comparison22_rev.png" width="250" height="800">
+<img src="figures/20150103_comparison22_rev.png" width="600" height="675">
 </p>
