@@ -6,3 +6,8 @@
 <p align="center">
 <img src="figures/boxplots.png" width="600" height="400">
 </p>
+
+
+<p align="center">
+<img src="figures/20150103_comparison22_rev.png" width="250" height="800">
+</p>
